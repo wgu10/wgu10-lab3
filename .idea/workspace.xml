@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="831caa35-41f5-4e44-aa6f-8dd738c22cca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/wgu10-lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/iit/sat/itmd4515/wgu10/Domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/iit/sat/itmd4515/wgu10/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/iit/sat/itmd4515/wgu10/CustomerJDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/iit/sat/itmd4515/wgu10/Domain/CustomerValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wgu10-lab3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\ext.yuchangcheng3\.m2\repository" />
+        <option name="mavenHome" value="D:\software\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\ext.yuchangcheng3\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oFYif1kfkzj74LmMWXRpqGt6hV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\JetBrains\IdeaProjects\参考\wgu10-lab3\src\test\java" />
+      <recent name="D:\software\JetBrains\IdeaProjects\参考\wgu10-lab3\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.iit.sat.itmd4515.wgu10.Domain" />
+      <recent name="edu.iit.sat.itmd4515.wgu10" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.iit.sat.itmd4515.wgu10.Domain" />
+      <recent name="edu.iit.sat.itmd4515.wgu10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerJDBCTest.deleteCustomerTest">
+    <configuration name="CustomerJDBCTest.createCustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wgu10-lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.sat.itmd4515.wgu10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.sat.itmd4515.wgu10" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.sat.itmd4515.wgu10.CustomerJDBCTest" />
+      <option name="METHOD_NAME" value="createCustomerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerJDBCTest.deleteCustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wgu10-lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.sat.itmd4515.wgu10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.sat.itmd4515.wgu10" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.sat.itmd4515.wgu10.CustomerJDBCTest" />
+      <option name="METHOD_NAME" value="deleteCustomerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerJDBCTest.readCustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wgu10-lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.sat.itmd4515.wgu10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.sat.itmd4515.wgu10" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.sat.itmd4515.wgu10.CustomerJDBCTest" />
+      <option name="METHOD_NAME" value="readCustomerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerJDBCTest.updateCustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wgu10-lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.sat.itmd4515.wgu10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.sat.itmd4515.wgu10" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.sat.itmd4515.wgu10.CustomerJDBCTest" />
+      <option name="METHOD_NAME" value="updateCustomerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerValidatorTest.customerIsCompleteValidEmail_expectFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wgu10-lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.sat.itmd4515.wgu10.Domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.sat.itmd4515.wgu10.Domain" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.sat.itmd4515.wgu10.Domain.CustomerValidatorTest" />
+      <option name="METHOD_NAME" value="customerIsCompleteValidEmail_expectFailure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerJDBCTest.deleteCustomerTest" />
+        <item itemvalue="JUnit.CustomerJDBCTest.updateCustomerTest" />
+        <item itemvalue="JUnit.CustomerJDBCTest.readCustomerTest" />
+        <item itemvalue="JUnit.CustomerJDBCTest.createCustomerTest" />
+        <item itemvalue="JUnit.CustomerValidatorTest.customerIsCompleteValidEmail_expectFailure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="831caa35-41f5-4e44-aa6f-8dd738c22cca" name="Default Changelist" comment="" />
+      <created>1612883934765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612883934765</updated>
+      <workItem from="1612883935849" duration="19525000" />
+      <workItem from="1612942927797" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/iit/sat/itmd4515/wgu10/Driver.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wgu10_lab3$edu_iit_sat_itmd4515_wgu10_Domain_in_wgu10_lab3.ic" NAME="edu.iit.sat.itmd4515.wgu10.Domain in wgu10-lab3 Coverage Results" MODIFIED="1612927021368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.iit.sat.itmd4515.wgu10.Domain.*</FILTER>
+    </SUITE>
+  </component>
+</project>
